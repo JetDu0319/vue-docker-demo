@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-docker-demo
 
 > A Vue.js project
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-docker-demo
+>>>>>>> bfe00e105060b79db437af2fe0780693451a3acc
